@@ -14,10 +14,6 @@ So in this notebook I demonstrate how to do this with Python.
 !pip install azure-cognitiveservices-speech
 ```
 
-    Requirement already satisfied: azure-cognitiveservices-speech in /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages (1.3.1)
-
-
-
 ```python
 import azure.cognitiveservices.speech.translation as tl
 ```
